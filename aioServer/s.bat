@@ -1,0 +1,2 @@
+java -classpath .;bin  AioTcpServer
+
